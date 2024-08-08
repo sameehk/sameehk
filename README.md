@@ -1,4 +1,9 @@
 ## Hi there 👋
+- 👨‍🦱 I’m Sameeh
+- 👀 I’m interested in Software Engineering, Machine Learning, Artificial Intelligence.
+- 🌱 I’m currently learning more python and seeking for my first job.
+
+
 
 <!--
 **sameehk/sameehk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
