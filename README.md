@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 👨‍🦱 I’m Sameeh
-- 👀 I’m interested in Software Engineering, Machine Learning, Artificial Intelligence.
-- 🌱 I’m currently learning more python and seeking for my first job.
+- 👀 I’m interested in Software Engineering, Data Science, Machine Learning, Artificial Intelligence.
+- 🌱 I’m currently learning more Python and seeking for my first job.
 
 
 
